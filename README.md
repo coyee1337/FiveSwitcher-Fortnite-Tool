@@ -4,4 +4,4 @@ FiveSwitcher is custom Fortnite tool for - Rendering modes switching, Custom res
 
 discord.gg/esoterik discord.gg/fivesense
 
-![image (51)](https://github.com/coyee1337/FiveSwitcher-Fortnite-Tool/assets/106880861/2d2ecc57-45f2-4c72-ad3d-402fb578e00c)
+![FiveSwitcher_EuvUXcaB4f](https://github.com/coyee1337/FiveSwitcher-Fortnite-Tool/assets/106880861/ee76c9e4-9527-4afc-8c1d-18025c3f9c21)
