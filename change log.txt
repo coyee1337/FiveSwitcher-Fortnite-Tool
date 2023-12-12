@@ -1,4 +1,9 @@
 12/12/23
+2.6 update
++ added BackGroundChanger
++ improved settings
+
+12/12/23
 2.5 update
 + added Presets
 + moved tweak to presets
