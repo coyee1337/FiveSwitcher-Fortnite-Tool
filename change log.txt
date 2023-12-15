@@ -1,3 +1,9 @@
+12/15/23
+2.7 update
++ improved BackGroundChanger
++ added option to start game or go back to start after using any function
++ improved settings
+
 12/12/23
 2.6 update
 + added BackGroundChanger
