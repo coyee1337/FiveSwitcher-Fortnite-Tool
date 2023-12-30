@@ -1,6 +1,12 @@
 # FiveSwitcher-Fortnite-Tool
 
-FiveSwitcher is custom Fortnite tool for - Rendering modes switching, Custom resolution adding
+FiveSwitcher is custom Fortnite tool for
+- Rendering modes switching (DirectX11-12, Low Perf.)
+- Custom resolution adding (Width, Height)
+- DLSS setting (Nvidia DLSS, supports Nvidia only)
+- Cloud Fortnite Configs (you can upload your own config and share it or use it yourself)
+- Presets (Low - Ultra, Tweak, Our Preset)
+- BackGroundChanger (Custom Fortnite Lobby BackGroud)
 
 discord.gg/esoterik discord.gg/fivesense
 
